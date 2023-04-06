@@ -1,0 +1,126 @@
+{
+    "books":[
+        
+            {
+            "id": "001",
+            "author": "Chinua Achebe",
+            "country": "Nigeria",
+            "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41u2JaAH+BL.jpg",
+            "language": "English",
+            "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+            "pages": 209,
+            "title": "Things Fall Apart",
+            "year": 1958,
+            "description":"One Thousand and One Nights  is a collection of Middle Eastern folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Nights, from the first English-language edition which rendered the title as The Arabian Nights' Entertainment.[2]   The work was collected over many centuries by various authors, translators, and scholars across West Asia, Central Asia, South Asia, and North Africa. Some tales trace their roots back to ancient and medieval Arabic, Sanskrit, Persian, and Mesopotamian literature.[3] Many tales were originally folk stories from the Abbasid and Mamluk eras, while others, especially the frame story, are probably drawn from the Pahlavi Persian work Hezār Afsān (Persian: هزار افسان, lit. A Thousand Tales), some of which may in turn be translations of older Indian texts.[4]"
+            },
+            {
+            "id": "002",
+            "author": "Hans Christian Andersen",
+            "country": "Denmark",
+            "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjGB0AkeXlf29LR7JDC_bfkDguBbYWhUx-4JnSI3nR-KSbT2X0gbBm3p3fEhix3Vc1lo&usqp=CAU",
+            "language": "Danish",
+            "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
+            "pages": 784,
+            "title": "Fairy tales",
+            "year": 1836,
+            "description":"Fairy Tales Told for Children. First Collection. (Danish: Eventyr, fortalte for Børn. Første Samling.) is a collection of nine fairy tales by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre. The nine tales of the three booklets were collected together and published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in the volume"
+            },
+            {
+            "id": "003",
+            "author": "Dante Alighieri",
+            "country": "Italy",
+            "imageLink": "https://kbimages1-a.akamaihd.net/6e5d9a87-148d-4846-aecb-061f0a0bcf14/1200/1200/False/the-divine-comedy-51.jpg",
+            "language": "Italian",
+            "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
+            "pages": 928,
+            "title": "The Divine Comedy",
+            "year": 1315,
+            "description":"The Divine Comedy (Italian: Divina Commedia; Italian pronunciation: [diˈviːna komˈmɛːdja]) is an Italian narrative poem by Dante Alighieri, begun c. 1308 and completed around 1321, shortly before the author's death. It is widely considered the pre-eminent work in Italian literature[1] and one of the greatest works of world literature.[2] The poem's imaginative vision of the afterlife is representative of the medieval worldview as it existed in the Western Church by the 14th century. It helped establish the Tuscan language, in which it is written, as the standardized Italian language.[3] It is divided into three parts: Inferno, Purgatorio, and Paradiso. The poem discusses 'the state of the soul after death and presents an image of divine justice meted out as due punishment or reward',[4] and describes Dante's travels through Hell, Purgatory, and Heaven.[5] Allegorically, the poem represents the soul's journey towards God,[6] beginning with the recognition and rejection of sin (Inferno), followed by the penitent Christian life (Purgatorio), which is then followed by the soul's ascent to God (Paradiso). Dante draws on medieval Catholic theology and philosophy, especially Thomistic philosophy derived from the Summa Theologica of Thomas Aquinas.[7] Consequently, the Divine Comedy has been called 'the Summa in verse'.[8]"
+            },
+            {
+            "id": "004",
+            "author": "Unknown",
+            "country": "Sumer and Akkadian Empire",
+            "imageLink": "https://kbimages1-a.akamaihd.net/ee5d3458-137f-4e3f-8c83-3d18758670fa/353/569/90/False/the-epic-of-gilgamesh-14.jpg",
+            "language": "Akkadian",
+            "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+            "pages": 160,
+            "title": "The Epic Of Gilgamesh",
+            "year": -1700,
+            "description":"The Epic of Gilgamesh  is an epic poem from ancient Mesopotamia. The literary history of Gilgamesh begins with five Sumerian poems about Bilgamesh (Sumerian for 'Gilgamesh'), king of Uruk, dating from the Third Dynasty of Ur  These independent stories were later used as source material for a combined epic in Akkadian. The first surviving version of this combined epic, known as the 'Old Babylonian' version, dates back to the 18th century BC and is titled after its incipit, Shūtur eli sharrī. Only a few tablets of it have survived. The later Standard Babylonian version compiled by Sîn-lēqi-unninni dates from the 13th to the 10th centuries BC and bears the incipit Sha naqba īmuru[note 1]  Approximately two-thirds of this longer, twelve-tablet version have been recovered. Some of the best copies were discovered in the library ruins of the 7th-century BC Assyrian king Ashurbanipal."
+            },
+            {
+            "id": "005",
+            "author": "Unknown",
+            "country": "Achaemenid Empire",
+            "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51+gFh0FW1L.jpg",
+            "language": "Hebrew",
+            "link": "https://en.wikipedia.org/wiki/Book_of_Job",
+            "pages": 176,
+            "title": "The Book Of Job",
+            "year": -600,
+            "description":"The Book of Job  or simply Job, is a book found in the Ketuvim section of the Hebrew Bible (Tanakh), and is the first of the Poetic Books in the Old Testament of the Christian Bible.[1] Scholars are generally agreed that it was written between the 7th and 4th centuries BCE.[2] It addresses theodicy, why God permits evil in the world, through the experiences of the eponymous protagonist.[3] Job is a wealthy and God-fearing man with a comfortable life and a large family; God, having asked Satan (הַשָּׂטָן, haśśāṭān, 'lit. 'the adversary'') for his opinion of Job's piety, decides to take away Job's wealth, family and material comforts, following Satan's accusation that if Job were rendered penniless and without his family, he would turn away from God."
+            },
+            {
+            "id": "006",
+            "author": "Unknown",
+            "country": "India/Iran/Iraq/Egypt/Tajikistan",
+            "imageLink": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51kg-1A+3kL.jpg",
+            "language": "Arabic",
+            "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights",
+            "pages": 288,
+            "title": "One Thousand and One Nights",
+            "year": 1200,
+            "description":"One Thousand and One Nights Alf Laylah wa-Laylah)[1] is a collection of Middle Eastern folk tales compiled in Arabic during the Islamic Golden Age. It is often known in English as the Arabian Nights, from the first English-language edition  which rendered the title as The Arabian Nights' Entertainment.[2]The work was collected over many centuries by various authors, translators, and scholars across West Asia, Central Asia, South Asia, and North Africa. Some tales trace their roots back to ancient and medieval Arabic, Sanskrit, Persian, and Mesopotamian literature.[3] Many tales were originally folk stories from the Abbasid and Mamluk eras, while others, especially the frame story, are probably drawn from the Pahlavi Persian work Hezār Afsān (Persian: هزار افسان, lit. A Thousand Tales), some of which may in turn be translations of older Indian texts.[4]"
+            },
+            {
+            "id": "007",
+            "author": "Unknown",
+            "country": "Iceland",
+            "imageLink": "https://m.media-amazon.com/images/I/514xYDM08YL._SL500_.jpg",
+            "language": "Old Norse",
+            "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga",
+            "pages": 384,
+            "title": "Njál's Saga",
+            "year": 1350,
+            "description":"The saga deals with a process of blood feuds in the Icelandic Commonwealth, showing how the requirements of honor could lead to minor slights spiralling into destructive and prolonged bloodshed. Insults where a character's manhood is called into question are especially prominent and may reflect an author critical of an overly restrictive ideal of masculinity.[2] Another characteristic of the narrative is the presence of omens and prophetic dreams. It is disputed whether this reflects a fatalistic outlook on the part of the author."
+            },
+            {
+            "id": "008",
+            "author": "Jane Austen",
+            "country": "United Kingdom",
+            "imageLink": "https://kbimages1-a.akamaihd.net/ad12ce73-aa34-473e-9a53-77a50360c239/1200/1200/False/pride-prejudice-13.jpg",
+            "language": "English",
+            "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+            "pages": 226,
+            "title": "Pride and Prejudice",
+            "year": 1813,
+            "description":"Pride and Prejudice is an 1813 novel of manners by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.Mr Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance, so his family faces becoming poor upon his death. Thus, it is imperative that at least one of the daughters marries well to support the others, which is a motivation that drives the plot."
+            },
+            {
+            "id": "009",
+            "author": "Honoré de Balzac",
+            "country": "France",
+            "imageLink": "data:image/jpeg;base64,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",
+            "language": "French",
+            "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot",
+            "pages": 443,
+            "title": "Le Père Goriot",
+            "year": 1835,
+            "description":"Le Père Goriot[a] (French pronunciation, 'Old Goriot' or 'Father Goriot') is an 1835 novel by French novelist and playwright Honoré de Balzac (1799–1850), included in the Scènes de la vie privée section of his novel sequence La Comédie humaine. Set in Paris in 1819, it follows the intertwined lives of three characters: the elderly doting Goriot, a mysterious criminal-in-hiding named Vautrin and a naive law student named Eugène de Rastignac"
+            },
+            {
+            "id": "010",
+            "author": "Samuel Beckett",
+            "country": "Republic of Ireland",
+            "imageLink": "https://m.media-amazon.com/images/I/41EHD5NJKAL.jpg",
+            "language": "French, English",
+            "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
+            "pages": 256,
+            "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+            "year": 1952,
+            "description":"Molloy is the first of three novels initially written in Paris between 1947 and 1950; this trio, which includes Malone Dies and The Unnamable, is collectively referred to as The Trilogy or the Beckett Trilogy.[1] Beckett wrote all three books in French and then, aside from some collaborative work on Molloy with Patrick Bowles, served entirely as his own English-language translator; he did the same for most of his plays.[2] As Paul Auster explains, “Becketts renderings of his own work are never literal, word-by-word transcriptions. They are free, highly-inventive adaptations of the original text—or, perhaps more accurately,'repatriations' from one language to the other, from one culture to the other. In effect, he wrote every book twice, and each version bears its own indelible mark."
+            }
+            ]
+    
+}

@@ -1,26 +1,35 @@
-
+import { Link } from "react-router-dom";
+import bg from "../images/nav.jpg";
+import "../styles/adminnav.css";
 
 const AdminNavbar = () => {
-    let links = [
-        {link : "Dashboard"},
-        {link : "Add books"},
-        {link : "Add user"},
-        {link : "Book-list"},
-        {link : "User-list"}
-    ]
-    return ( 
-        <div className="Navbar">
-            <ul>
-                {
-                    links.map ((data) => {
-                        return(
-                            <li><a href="">{data.link}</a></li>
-                        )
-                    })
-                }
-            </ul>
-        </div>
-     );
-}
- 
+  return (
+    <div className="mainN">
+      <img src={bg} alt="" />
+      
+      <div className="onee na-cenet">
+        <ul>
+          <li>
+            <Link to="/admin/">Home</Link>
+          </li>
+          <li>
+            <Link to="/admin/addUser/">Add user</Link>
+          </li>
+          <li>
+            <Link to="/admin/addBook/">Add Books</Link>
+          </li>
+          <li>
+            <Link to="/admin/bookList/">Book List </Link>
+          </li>
+          <li>
+            <Link to="/admin/userlist/">UserList</Link>
+          </li>
+        </ul>
+           
+      </div>
+      <button className="bt"> <Link to="/"> LogOut</Link></button>
+    </div>
+  );
+};
+
 export default AdminNavbar;

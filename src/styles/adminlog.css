@@ -1,0 +1,61 @@
+
+.second{
+    position: absolute;
+    top:190px;
+    margin-left: 490px;
+   
+
+}
+.second h1{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: rgb(24, 4, 103);
+     margin-top: 1px;
+     
+}
+.loginForm input{
+    margin-top: 20px;
+     border: none;
+     border-bottom: 1px solid blue;
+    padding: 10px;
+    border-radius: 30px;
+    width: 220px;
+}
+
+.loginForm button{
+    margin-left: 60px;
+    margin-top: 60px;
+    border-radius: 20px;
+    padding: 10px;
+    width: 90px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+.AdminLogin{
+    
+    margin-top: 120px;
+    
+    width: 800px;
+    margin-left: 290px;
+}
+
+
+.adm img{
+    height: 500px;
+    width: 800px;
+    border-radius: 30px;
+    margin-left: 290px;
+    margin-top: 40px;
+}
+.AdminLogin img{
+    height: 508px;
+    width: 400px;
+    position: absolute;
+    top: 0.9px;
+    opacity: 0.8;
+    right: 700px;
+}
+.second h1{
+    color: white;
+}
+

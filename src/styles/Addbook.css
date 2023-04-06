@@ -1,0 +1,55 @@
+.addbook{
+    
+    height: 480px;
+    width: 500px;
+   
+    margin-left: 270px;
+    margin-top: 80px;
+    
+    border-radius: 40px;
+   background: url(../images/boook.webp);
+  
+    
+    
+}
+.addbook label{
+    font-family:monospace;
+    padding: 5px 60px;
+    font-size:18px;
+    font-weight: 50px;
+    color: rgb(90, 55, 55);
+    
+    
+}
+.addbook input{
+   
+    border: none;
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    
+}
+.two h1{
+    color: wheat;
+    margin-left: 30px;
+
+}
+
+
+.two{
+   
+    margin-left:130px;
+    font-size: px;
+    
+}
+.btm{
+    margin-top: 50px;
+    margin-left: 90px;
+    padding: 10px;
+    border-radius: 50px;
+    width: 90px;
+    color: white;
+    border: none;
+    background-color: rgb(76, 188, 239);
+}

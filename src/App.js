@@ -3,7 +3,7 @@ import LandingPage from "./components/LandingPage";
 import AdminLogin from "./components/AdminLog";
 import UserLogin from "./components/UserLog";
 import AdminPortal from "./components/Adminportal";
-import { Link } from "react-router-dom";
+import BookList from "./components/BooksList";
 
 const App = () => {
   return ( 
@@ -14,6 +14,7 @@ const App = () => {
             <Route path="/adminLogin" element={<AdminLogin/>} />
             <Route path="/userLogin" element={<UserLogin/>} />
             <Route path="/admin/*" element={<AdminPortal/>} />
+            <Route path="/bookList" element={<BookList/>}/>
           </Routes>
        </BrowserRouter>
     </div>
