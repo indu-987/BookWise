@@ -4,8 +4,8 @@ import "../styles/adminnav.css";
 
 const AdminNavbar = () => {
   return (
-    <div className="mainN">
-      <img src={bg} alt="" />
+    <div className="mainN" style={{"height" : "100vh"}}>
+      {/* <img src={bg} alt="" /> */}
       
       <div className="onee na-cenet">
         <ul>

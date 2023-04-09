@@ -27,6 +27,7 @@ useEffect(()=>
          <p>Author:{newd.author}</p>
          <p>Price:{newd.pages}</p>
          <p>Year:{newd.year}</p>
+         <p>{newd.description}</p>
 
         </div>
      );

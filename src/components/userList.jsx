@@ -1,3 +1,5 @@
+import "../styles/userlist.css"
+
 const UserList = () => {
     return ( 
     <div className="list">

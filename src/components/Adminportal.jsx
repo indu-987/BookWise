@@ -16,7 +16,7 @@ const AdminPortal = () => {
            
             
                 <Routes>
-                    <Route path='/admin/' element={<AdminHome/>}/>
+                    <Route path='/' element={<AdminHome/>}/>
                     <Route path='/addUser/' element={<Adduser/>}/>
                     <Route path='/addBook/' element={<Addbook/>}/>
                     <Route path='/bookList/' element={<BookList/>}/>
