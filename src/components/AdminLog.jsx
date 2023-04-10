@@ -6,6 +6,7 @@ import aimg from "../images/navbar.jpg"
 
 const AdminLogin = () => {
   let navigate = useNavigate();
+  
   let email = useRef(null);
   let password = useRef(null);
 

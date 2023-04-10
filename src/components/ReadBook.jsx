@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { useState } from "react";
+import "../styles/readbook.css"
 
 
 const ReadBook = () => {
@@ -26,7 +27,7 @@ useEffect(()=>
          <p>Title:{newd.title}</p>
          <p>Author:{newd.author}</p>
          <p>Price:{newd.pages}</p>
-         <p>Year:{newd.year}</p>
+         
          <p>{newd.description}</p>
 
         </div>

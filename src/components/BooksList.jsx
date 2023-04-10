@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 import "../styles/booklist.css"
+import { useLocation,useNavigate } from "react-router-dom";
 
 const BookList = () => {
   let [book, setdata] = useState([]);
+ let navigate=useNavigate()
+  let location = useLocation()
 
   useEffect(() => {
     let retreive = async () => {
@@ -20,6 +22,21 @@ const BookList = () => {
     });
     alert(`${title} deleted`);
   };
+
+   let readbook = (id)=>{
+    if (location.pathname =='/admin/bookList/') 
+    {
+      navigate(`/admin/bookList/${id}`)
+    } else 
+    {
+      navigate(`/user/bookList/${id}`)
+
+    }
+   }
+
+
+
+
   return (
     <div className="bookList">
       {book.map((data) => (
@@ -28,8 +45,8 @@ const BookList = () => {
           <img src={data.imageLink} width={150} />
           <p className="ti">{data.title}</p>
           <p>Author:{data.author}</p>
-          <Link to={`/admin/bookList/${data.id}`}>Read Book</Link><br />
-          <button onClick={() => deleted(data.id, data.title)}>delete</button>
+          <button className="btm1" onClick={()=>readbook(data.id)} >Read Book</button><br />
+          {location.pathname == '/admin/bookList/'  &&  <button className="btm3" onClick={() => deleted(data.id, data.title)}>delete</button>}
         </div>
       ))}
     </div>

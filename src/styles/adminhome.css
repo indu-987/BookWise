@@ -1,15 +1,20 @@
+.adminHome{
+    margin-left: 300px;
+}
+
+
 .nav{
     display: flex;
     border: solid #bdb2b2 1px;
-    width: 1035px;
+    width: 1034px;
     height: 80px;
-    border-radius: 10px;
+    border-radius: 4px;
     box-shadow: 10px 5px 10px rgb(192, 187, 187);
     position: fixed;
     z-index: 1;
     opacity: 1;
     background-color: white;
-    top: 0;
+    top:0px;
 }
 .nav img{
     margin-top: 5px;

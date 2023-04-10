@@ -4,6 +4,7 @@ import AdminLogin from "./components/AdminLog";
 import UserLogin from "./components/UserLog";
 import AdminPortal from "./components/Adminportal";
 import BookList from "./components/BooksList";
+import Userportal from "./components/userportal";
 
 const App = () => {
   return ( 
@@ -15,6 +16,8 @@ const App = () => {
             <Route path="/userLogin" element={<UserLogin/>} />
             <Route path="/admin/*" element={<AdminPortal/>} />
             <Route path="/bookList" element={<BookList/>}/>
+            <Route path="/user/*" element={<Userportal/>}/>
+
           </Routes>
        </BrowserRouter>
     </div>

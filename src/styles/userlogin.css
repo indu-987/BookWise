@@ -1,0 +1,45 @@
+
+
+.UserLogin{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top:190px;
+    border-radius: 30px;
+    margin-left: 490px;
+    padding: 20px 50px;
+    background: linear-gradient(50deg, rgba(34,193,195,1) 4%, rgba(34,193,195,1) 18%, rgba(33,184,187,1) 33%, rgba(5,16,29,1) 100%);   
+
+}
+.UserLogin h1{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: rgb(24, 4, 103);
+     margin-top: 1px;
+     margin-left: 30px;
+     
+}
+.loginForm input{
+    margin-top: 20px;
+     border: none;
+     border-bottom: 1px solid blue;
+    padding: 10px;
+    border-radius: 30px;
+    width: 220px;
+    margin-left: 30px;
+}
+
+.loginForm button{
+    margin-left: 60px;
+    margin-top: 60px;
+    border-radius: 20px;
+    padding: 10px;
+    width: 90px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+
+
+
+
