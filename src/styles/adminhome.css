@@ -1,12 +1,12 @@
 .adminHome{
-    margin-left: 300px;
+    margin-left: 290px;
 }
 
 
 .nav{
     display: flex;
     border: solid #bdb2b2 1px;
-    width: 1034px;
+    width: 1040px;
     height: 80px;
     border-radius: 4px;
     box-shadow: 10px 5px 10px rgb(192, 187, 187);
@@ -18,7 +18,7 @@
 }
 .nav img{
     margin-top: 5px;
-    height: 75px;
+    height: 70px;
     width: 75px;
     margin-left: 5px;
 }
@@ -26,7 +26,7 @@
 .comp {
 display: flex;
 
-margin-left:550px;
+margin-left:530px;
 
 }
 .comp h2{

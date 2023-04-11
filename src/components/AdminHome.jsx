@@ -21,7 +21,7 @@ const AdminHome = () => {
             {/*navbar started  */}
               <div className="nav">
                <img src={nag} alt="" />
-                <h1>Library</h1>
+                <h1 style={{color:" #019875",marginLeft:10,marginTop:30,fontSize:30}}>Library</h1>
                <div className="comp">
                <ul className="list">
                 <li><img src={hr} alt="" /><h1>Donate</h1></li>

@@ -34,9 +34,6 @@ const BookList = () => {
     }
    }
 
-
-
-
   return (
     <div className="bookList">
       {book.map((data) => (
