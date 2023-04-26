@@ -1,5 +1,4 @@
 import "../styles/Addbook.css"
-// import bi from "../images/boook.webp"
 import { useRef } from "react";
 
 
@@ -37,7 +36,6 @@ const Addbook = () => {
  
     return ( 
         <div className="addbook">
-          {/* <img src={bi} alt="" /> */}
              <div className="two">
           <h1>Add Book </h1>
           <form action="" onSubmit={submit} >

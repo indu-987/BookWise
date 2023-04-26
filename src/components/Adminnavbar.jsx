@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import bg from "../images/nav.jpg";
 import "../styles/adminnav.css";
 
 const AdminNavbar = () => {
@@ -22,7 +21,7 @@ const AdminNavbar = () => {
             <Link to="/admin/bookList/">Book List </Link>
           </li>
           <li>
-            <Link to="/admin/userlist/">UserList</Link>
+            <Link to="/admin/UserList/">UserList</Link>
           </li>
         </ul>
            
